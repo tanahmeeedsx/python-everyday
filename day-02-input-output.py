@@ -1,7 +1,7 @@
-# name = input("Enter your name: ")
-# city = input("Enter your city: ")
+name = input("Enter your name: ")
+city = input("Enter your city: ")
 
-# print(f"Hello {name}! Welcome to  {city}.")
+print(f"Hello {name}! Welcome to  {city}.")
 
 
 name = input("Enter your name: ")
