@@ -34,8 +34,8 @@ This repository tracks my daily Python learning journey.
 | Day | Concept | Status |
 |---|---|---|
 | 01 | Variables | Completed |
-| 02 | Input & Output | Upcoming |
-| 03 | Operators | Upcoming |
+| 02 | Input & Output | Completed |
+| 03 | Operators | Completed |
 | 04 | Conditional Statements | Upcoming |
 | 05 | Loops | Upcoming |
 | 06 | Lists | Upcoming |
